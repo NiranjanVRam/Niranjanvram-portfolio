@@ -7,7 +7,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>AnneB</title>
+	<title>Niranjan V Ram</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
 
@@ -101,11 +101,11 @@
    	</div> <!-- /intro-content --> 
 
    	<ul class="intro-social">        
-         <li><a href="https://www.linkedin.com/in/annebonnerdata/"><i class="fa fa-linkedin"></i></a></li>
-         <li><a href="https://github.com/bonn0062"><i class="fa fa-github"></i></a></li>
-         <li><a href="https://www.facebook.com/anne.bonner.9"><i class="fa fa-facebook"></i></a></li>
-         <li><a href="https://twitter.com/annebonnerdata"><i class="fa fa-twitter"></i></a></li>
-         <li><a href="https://medium.com/@annebonner"><i class="fa fa-pencil"></i></a></li>
+         <li><a href="https://www.linkedin.com/in/niranjan-v-ram-a260451b6/"><i class="fa fa-linkedin"></i></a></li>
+         <li><a href="https://github.com/NiranjanVRam"><i class="fa fa-github"></i></a></li>
+         <li><a href="https://www.facebook.com/niranjan.vram"><i class="fa fa-facebook"></i></a></li>
+         <li><a href="https://twitter.com/NiranjanVRam"><i class="fa fa-twitter"></i></a></li>
+         <li><a href="https://t.me/liqwid_x"><i class="fa fa-telegram"></i></a></li>
       </ul> <!-- /intro-social -->      	
 
    </section> <!-- /intro -->
@@ -126,7 +126,7 @@
 
    				<img src="images/ABvineyard.jpg" alt="Profile Picture">
 
-   				<p class="lead"> I make complicated concepts seem simple.<br><br> Data science, machine learning, deep learning, and artificial intelligence. Top writer in Artificial Intelligence and Technology on Medium. Content creator, writer, and editor. Consultant and advisor. <br><br> Experience with Python, SQL, Tableau, PyTorch, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, Deep Learning, NLP, Neural Networks, Image Classification, Plotly, Git, and more.</p>
+   				<p class="lead"> Yet to be added...<br><br> ...<br><br> ...</p>
    			</div>   			
 
    		</div>   		
@@ -142,19 +142,19 @@
    			<ul class="info-list">
    				<li>
    					<strong>Full Name:</strong>
-   					<span>Anne Bonner</span>
+   					<span>Niranjan V Ram</span>
    				</li>
    				<li>
    					<strong>Job:</strong>
-   					<span>Freelance</span>
+   					<span>Student</span>
    				</li>
    				<li>
    					<strong>Website:</strong>
-						<span><a href="https://bonn0062.github.io/ab_portfolio/">AnneB</span></a>
+						<span><a href="https://bonn0062.github.io/ab_portfolio/">Niranjan V Ram</span></a>
    				</li>
    				<li>
    					<strong>Email:</strong></a>
-   					<span><a href="mailto:anne.bonner.data@gmail.com">anne.bonner.data@gmail.com</span></a>
+   					<span><a href="mailto:niranjanvram@gmail.com">niranjanvram@gmail.com</span></a>
    				</li>
 
    			</ul> <!-- /info-list -->
@@ -197,8 +197,8 @@
 
    	<div class="row button-section">
    		<div class="col-twelve">
-   			<a href="#contact" title="Hire Me" class="button stroke smoothscroll">More Info</a>
-   			<a href="mailto:anne.bonner.data@gmail.com" title="Hire Me" class="button stroke smoothscroll">Reach Out</a>
+   			<a href="#contact" title="Contact Me" class="button stroke smoothscroll">More Info</a>
+   			<a href="mailto:niranjanvram@gmail.com" title="Contact Me" class="button stroke smoothscroll">Reach Out</a>
    		</div>   		
    	</div>
 
@@ -339,7 +339,7 @@
 					   </div>
 
 			         <div class="link-box">
-			            <a href="https://github.com/bonn0062">Show Me</a>
+			            <a href="https://github.com/NiranjanVRam">Show Me</a>
 					      <a href="#" class="popup-modal-dismiss">Close</a>
 			         </div>		      
 
@@ -960,8 +960,8 @@
 				<ul class="footer-social">        
 				 <li><a href="https://www.linkedin.com/in/tastingeverything/"><i class="fa fa-linkedin"></i></a></li>
 				 <li><a href="https://www.facebook.com/anne.bonner.9"><i class="fa fa-facebook"></i></a></li>
-				 <li><a href="https://github.com/bonn0062"><i class="fa fa-github"></i></a></li>
-				 <li><a href="https://twitter.com/tastingevery"><i class="fa fa-twitter"></i></a></li>
+				 <li><a href="https://github.com/NiranjanVRam"><i class="fa fa-github"></i></a></li>
+				 <li><a href="https://twitter.com/NiranjanVRam"><i class="fa fa-twitter"></i></a></li>
 				 <li><a href="https://www.instagram.com/tastingeverything/"><i class="fa fa-instagram"></i></a></li>
 			  </ul> 
 				 
@@ -969,8 +969,8 @@
 
 		 <div class="col-six tab-full">
 			 <div class="copyright">
-				   <span>© Copyright anneb 2018.</span> 
-				   <span><a href="http://www.styleshout.com/"></a></span>	         	
+				   <span>© Copyright Niranjan V Ram 2021.</span> 
+				   <span><a href="https://github.com/NiranjanVRam"></a></span>	         	
 				</div>		                  
 			 </div>
 
